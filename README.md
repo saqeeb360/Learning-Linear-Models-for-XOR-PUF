@@ -30,11 +30,11 @@ We get the convergence graph as follows:
 ![Convergence Curve](https://github.com/saqeeb360/Learning-Linear-Models-for-XOR-PUF/blob/main/images/Convergence-Curve.png?raw=true)
 
 
-# Result
+# Results
 | timeout | avg_hinge/num_trials | avg_error/num_trials | avg_time_reported/num_trials | avg_time_wrapper/num_trials |
 |---------|----------------------|----------------------|------------------------------|-----------------------------|
 | 0.2     | 0.015347             | 0.005060             | 0.200038                     | 0.201032                    |
 | 0.5     | 0.000000             | 0.000000             | 0.500037                     | 0.501668                    |
 | 1.0     | 0.000000             | 0.000000             | 1.000033                     | 1.002543                    |
-| 2.0     | 0.000000             | 0.000000             |                              | 2.004446                    |
+| 2.0     | 0.000000             | 0.000000             | 2.000019                     | 2.004446                    |
 | 5.0     | 0.000000             | 0.000000             | 5.000018                     | 5.010145                    |
